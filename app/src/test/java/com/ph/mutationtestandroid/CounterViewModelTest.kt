@@ -1,6 +1,8 @@
 package com.ph.mutationtestandroid
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
+import com.ph.mutationtestandroid.counter.CounterRepository
+import com.ph.mutationtestandroid.counter.CounterViewModel
 import io.mockk.coEvery
 import io.mockk.mockk
 import kotlinx.coroutines.Dispatchers

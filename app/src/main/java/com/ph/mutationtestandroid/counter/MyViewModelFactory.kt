@@ -1,4 +1,4 @@
-package com.ph.mutationtestandroid
+package com.ph.mutationtestandroid.counter
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
