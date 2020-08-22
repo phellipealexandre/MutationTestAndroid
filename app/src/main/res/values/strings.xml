@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MutationTestAndroid</string>
+    <string name="request_button_title">Request</string>
+    <string name="counter_title">Counter: %1$s</string>
+    <string name="idle">…</string>
+    <string name="counter_idle">Counter: …</string>
+</resources>
